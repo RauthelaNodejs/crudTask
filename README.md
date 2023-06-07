@@ -6,3 +6,6 @@
 4.please run npm start
 5.then open this link http://localhost:5000/api/v1/
 6.Base url is BASIC_URL='http://localhost:5000/'
+7 .Go for signup user/signUP
+8.Then login user/Login
+9.go for task crud  task
